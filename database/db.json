@@ -1,0 +1,81 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Setup Project Environment",
+      "description": "Initialize project repository, set up initial dependencies and folder structure.",
+      "status": "To-Do",
+      "priority": "High"
+    },
+    {
+      "id": "2",
+      "title": "Design Mockups",
+      "description": "Create mockups for the dashboard, task detail modal, and filters.",
+      "status": "In Progress",
+      "priority": "Medium"
+    },
+    {
+      "id": "3",
+      "title": "Implement Authentication",
+      "description": "Add login and registration functionality with form validation.",
+      "status": "To-Do",
+      "priority": "High"
+    },
+    {
+      "id": "4",
+      "title": "Setup Redux for State Management",
+      "description": "Implement Redux to manage global state for tasks and filters.",
+      "status": "Done",
+      "priority": "High"
+    },
+    {
+      "id": "5",
+      "title": "Create Task List Component",
+      "description": "Develop a component to display tasks in a list format with sorting and filtering capabilities.",
+      "status": "In Progress",
+      "priority": "Low"
+    },
+    {
+      "id": "6",
+      "title": "Implement Task Search",
+      "description": "Add search functionality to filter tasks by title or description.",
+      "status": "To-Do",
+      "priority": "Medium"
+    },
+    {
+      "id": "7",
+      "title": "Write Unit Tests for Task Components",
+      "description": "Write unit tests for Task List, Task Details Modal, and Task Creation Form components.",
+      "status": "To-Do",
+      "priority": "High"
+    },
+    {
+      "id": "8",
+      "title": "Add Dark Mode Support",
+      "description": "Implement a dark mode toggle to switch between light and dark themes.",
+      "status": "To-Do",
+      "priority": "Low"
+    },
+    {
+      "id": "9",
+      "title": "Optimize Task List Rendering",
+      "description": "Use React.memo or virtualization to improve performance for large task lists.",
+      "status": "Done",
+      "priority": "Medium"
+    },
+    {
+      "id": "10",
+      "title": "Bug Fixes and Code Refactoring",
+      "description": "Fix known bugs and refactor code for better readability and maintainability.",
+      "status": "To-Do",
+      "priority": "High"
+    },
+    {
+      "id": 775,
+      "title": "dawdas",
+      "description": "awsdad",
+      "status": "To-Do",
+      "priority": "Low"
+    }
+  ]
+}
